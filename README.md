@@ -1,1 +1,1 @@
-## This repository contains SQL-codes and artifcats
+## This repository contains SQL-codes and artifacts
